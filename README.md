@@ -15,3 +15,5 @@ cd rust-actors
 
 cargo run
 ```
+
+Tutorial link: https://tawandamunongo.dev/rust-actors
